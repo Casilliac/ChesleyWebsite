@@ -1,0 +1,71 @@
+html{
+    
+    min-height: 90vh;
+    width: 100%;
+}
+
+body{
+
+    margin: 2rem;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    min-height: 90vh;
+}
+table {
+    
+    padding: 0;
+    margin: 0;
+}
+p{
+    margin: 2rem;
+    padding: 1rem;
+    border: 3px solid #333
+}
+.complete-week{
+    background-color: hwb(120 72% 1%);
+}
+.content-container {
+    border: 1px solid black; /* Border around the entire block */
+    padding: 10px;          /* Add space between the content and border */
+    margin: 10px 0;         /* Optional: Add space outside the container */
+    /* border-radius:;     Optional: Rounded corners */
+}
+.content{
+    flex: 1;
+}
+.WelcomeBCBanner{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: ;
+    font-size: larger;
+    margin: 0 auto;
+    padding: 1rem;
+    width: auto;
+
+}
+
+ol{
+    margin: ;
+    padding: 1 rem
+}
+h1{
+
+}
+h2{
+padding: .5rem 0 ;
+margin: 0;
+}
+h3{
+    padding-left: .5rem;
+    margin: 0;
+}
+
+
+
+footer{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    font-size: small;
+    justify-content: center;
+}
