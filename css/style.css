@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
+
 html{
     
     min-height: 90vh;
     width: 100%;
+    font-family: "Libre Caslon Text", serif;
 }
 
 body{
@@ -9,7 +12,7 @@ body{
     margin: 2rem;
     display: flex;
     flex-direction: column;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 
     min-height: 90vh;
 }
 table {
@@ -35,7 +38,7 @@ p{
     flex: 1;
 }
 .WelcomeBCBanner{
-    font-family: 'Times New Roman', Times, serif;
+    
     font-style: ;
     font-size: larger;
     margin: 0 auto;
