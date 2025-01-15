@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital,wght@0,400;0,700;1,400&display=swap');
 
 html{
-    
+    background-color: whitesmoke;
+    color: #333;
     min-height: 90vh;
     width: 100%;
     font-family: "Libre Caslon Text", serif;
@@ -15,33 +16,39 @@ body{
     font-family: 
     min-height: 90vh;
 }
+
 table {
     
     padding: 0;
     margin: 0;
 }
+
 p{
     margin: 2rem;
     padding: 1rem;
     border: 3px solid #333
 }
+
 .complete-week{
     background-color: hwb(120 72% 1%);
 }
-.content-container {
+
+.week {
     border: 1px solid black; /* Border around the entire block */
     padding: 10px;          /* Add space between the content and border */
     margin: 10px 0;         /* Optional: Add space outside the container */
     /* border-radius:;     Optional: Rounded corners */
 }
+
 .content{
     flex: 1;
 }
+
 .WelcomeBCBanner{
-    
-    font-style: ;
+    align-items: center;
+    align-self: center;
     font-size: larger;
-    margin: 0 auto;
+    margin: auto;
     padding: 1rem;
     width: auto;
 
@@ -58,12 +65,15 @@ h2{
 padding: .5rem 0 ;
 margin: 0;
 }
+
 h3{
     padding-left: .5rem;
     margin: 0;
 }
 
-
+.week-date-time{
+    font-size: 1rem;
+}
 
 footer{
     padding-top: 2rem;
