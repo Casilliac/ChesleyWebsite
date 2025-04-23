@@ -13,7 +13,7 @@ body{
     margin: 2rem;
     display: flex;
     flex-direction: column;
-    font-family: 
+    
     min-height: 90vh;
 }
 
@@ -51,11 +51,10 @@ p{
     margin: auto;
     padding: 1rem;
     width: auto;
-
 }
 
 ol{
-    margin: ;
+    
     padding: 1 rem
 }
 h1{
