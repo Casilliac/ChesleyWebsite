@@ -67,8 +67,36 @@ p{
 }
 
 /* Lists */
+/* Lists */
+ul, ol, dl {
+  border: 1px solid var(--line);
+  background-color: #ffffff;
+  padding: 1.5rem; /* more breathing room */
+  margin: 1rem 0;
+  border-radius: 8px;
+  list-style-position: inside;
+  display: inline-block; /* box only as wide as its content */
+  vertical-align: top;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: calc(100% - 4rem); /* prevent overflow on small screens */
+}
+
 ol{
   padding: 1rem; /* removed space in '1 rem' */
+}
+
+/* Nested lists get a subtler dashed box and slightly smaller padding */
+ul ul, ol ol, ul ol, ol ul {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  padding: 1rem;
+  border: 1px dashed var(--line);
+  border-radius: 6px;
+  display: inline-block;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: calc(100% - 6rem);
 }
 
 /* Headings: serif */
@@ -173,8 +201,16 @@ footer{
 /* Season list layout */
 .season-list{
   list-style: none;
-  padding: 0;
-  margin: 0;
+  padding: 1.5rem; /* breathing room for BookClub lists */
+  margin: 1rem 0;
+  border: 1px solid var(--line);
+  background-color: #ffffff;
+  border-radius: 8px;
+  display: inline-block; /* box only as wide as its content */
+  vertical-align: top;
+  width: -moz-fit-content;
+  width: fit-content;
+  max-width: calc(100% - 4rem);
 }
 
 .season-list li{
