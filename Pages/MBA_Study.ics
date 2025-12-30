@@ -1,0 +1,129 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChesleyWebsite//MBA Prep Study Plan//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:MBA Prep – 12-Week Core Study Plan
+X-WR-TIMEZONE:America/New_York
+
+BEGIN:VEVENT
+UID:mba-prep-week1-20260113@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 1 – Basic Language: Firms, Statements, Data
+DTSTART;TZID=America/New_York:20260113T190000
+DTEND;TZID=America/New_York:20260113T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 1 – Financial Statements and Business Decisions\nCorporate Finance: Ch 1 – The Corporation\nStatistics: Ch 1–2 – Describing Data
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week2-20260120@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 2 – Balance Sheet, Statement Analysis, Probability
+DTSTART;TZID=America/New_York:20260120T190000
+DTEND;TZID=America/New_York:20260120T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 2 – Balance Sheet\nCorporate Finance: Ch 2–3 – Statement Analysis, Law of One Price\nStatistics: Ch 3 – Probability Methods
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week3-20260127@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 3 – Income Statement, Time Value, Distributions
+DTSTART;TZID=America/New_York:20260127T190000
+DTEND;TZID=America/New_York:20260127T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 3; begin Ch 4\nCorporate Finance: Ch 4 – Time Value of Money\nStatistics: Ch 4 – Discrete Distributions
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week4-20260203@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 4 – Accounting Cycle, Rates, Normal Distribution
+DTSTART;TZID=America/New_York:20260203T190000
+DTEND;TZID=America/New_York:20260203T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Finish Ch 4; Ch 5\nCorporate Finance: Ch 5 – Interest Rates\nStatistics: Ch 5 – Continuous Distributions
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week5-20260210@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 5 – Revenue, Bonds, Sampling Distributions
+DTSTART;TZID=America/New_York:20260210T190000
+DTEND;TZID=America/New_York:20260210T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 6 – Revenue & Receivables\nCorporate Finance: Ch 6–7 – Bonds, Investment Rules\nStatistics: Ch 6 – Sampling Distributions
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week6-20260217@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 6 – Inventory, Capital Budgeting, Confidence Intervals
+DTSTART;TZID=America/New_York:20260217T190000
+DTEND;TZID=America/New_York:20260217T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 7 – Inventory & COGS\nCorporate Finance: Ch 8 – Capital Budgeting\nStatistics: Ch 7 – Confidence Intervals
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week7-20260224@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 7 – Long-Lived Assets, Equity, One-Sample Tests
+DTSTART;TZID=America/New_York:20260224T190000
+DTEND;TZID=America/New_York:20260224T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 8 – PP&E, Intangibles\nCorporate Finance: Ch 9 – Stock Valuation\nStatistics: Ch 9 – One-Sample Tests
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week8-20260303@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 8 – Liabilities, Risk & Return, Two-Sample Tests
+DTSTART;TZID=America/New_York:20260303T190000
+DTEND;TZID=America/New_York:20260303T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 9 – Liabilities\nCorporate Finance: Ch 10 – Risk & Return\nStatistics: Ch 10 – Two-Sample Tests
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week9-20260310@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 9 – Bonds, Equity, CAPM, Regression
+DTSTART;TZID=America/New_York:20260310T190000
+DTEND;TZID=America/New_York:20260310T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 10–11 – Bonds & Equity\nCorporate Finance: Ch 11 – CAPM\nStatistics: Ch 11 – Regression
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week10-20260317@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 10 – Cash Flows, WACC, Multiple Regression
+DTSTART;TZID=America/New_York:20260317T190000
+DTEND;TZID=America/New_York:20260317T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 13 – Cash Flows\nCorporate Finance: Ch 12 – WACC\nStatistics: Ch 12 – Multiple Regression
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week11-20260324@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 11 – Ratio Analysis, Capital Structure, ANOVA
+DTSTART;TZID=America/New_York:20260324T190000
+DTEND;TZID=America/New_York:20260324T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Ch 14 – Ratios & Trends\nCorporate Finance: Ch 14–15 – Capital Structure\nStatistics: Ch 15 – ANOVA
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+BEGIN:VEVENT
+UID:mba-prep-week12-20260331@chesleywebsite
+DTSTAMP:20251221T160000Z
+SUMMARY:MBA Prep Week 12 – Review & Optional Skims
+DTSTART;TZID=America/New_York:20260331T190000
+DTEND;TZID=America/New_York:20260331T203000
+DESCRIPTION:Join via Discord: https://discord.gg/AsB3MT8xBC\n\nAccounting: Global review\nCorporate Finance: Review core tools; optional skims\nStatistics: Review core tools; optional skims
+URL:https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+END:VCALENDAR
