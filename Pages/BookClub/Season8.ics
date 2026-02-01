@@ -7,31 +7,31 @@ X-WR-CALNAME:The Reading Group - Season 8
 X-WR-TIMEZONE:America/New_York
 
 BEGIN:VEVENT
-UID:trg-s8-week1-20260218@chesleywebsite
+UID:trg-s8-week1-20260204@chesleywebsite
 DTSTAMP:20251230T000000Z
 SUMMARY:TRG S8 Week 1: Deschooling Society
-DTSTART;TZID=America/New_York:20260218T200000
-DTEND;TZID=America/New_York:20260218T213000
+DTSTART;TZID=America/New_York:20260204T200000
+DTEND;TZID=America/New_York:20260204T213000
 LOCATION:Discord
 DESCRIPTION:Join on Discord: https://discord.gg/AsB3MT8xBC\n\nMain Reading (PDF): https://drive.google.com/file/d/10avze8Oyv2IeISsbqQJ2UafCy0KRvTfw/view?usp=sharing\nTitle: Excerpt from Deschooling Society by Ivan Illich\n\nSupplement (PDF - it's 2 pages, just read it): https://drive.google.com/file/d/1UqnerKPXQq0xnbWp6xg_XGUc3Zoq4jC-/view?usp=sharing\nTitle: Education excerpt from How Asia Works by Joe Studwell
 END:VEVENT
 
 BEGIN:VEVENT
-UID:trg-s8-week2-20260204@chesleywebsite
+UID:trg-s8-week2-20260211@chesleywebsite
 DTSTAMP:20251230T000000Z
 SUMMARY:TRG S8 Week 2: The Southern Surge
-DTSTART;TZID=America/New_York:20260204T200000
-DTEND;TZID=America/New_York:20260204T213000
+DTSTART;TZID=America/New_York:20260211T200000
+DTEND;TZID=America/New_York:20260211T213000
 LOCATION:Discord
 DESCRIPTION:Join on Discord: https://discord.gg/AsB3MT8xBC\n\nMain Reading (PDF): https://drive.google.com/file/d/15lFCgyMDTLh_0LF_vCmbe5ch7RAx-SZZ/view?usp=drive_link\nTitle: Illiteracy is a Policy Choice by Kelsey Piper\n\nSupplement (PDF): https://drive.google.com/file/d/1yIxpBbonmViypo-yzU5zz0KFMLB6m-HG/view?usp=drive_link\nTitle: California's Math Misadventure by Brian Conrad
 END:VEVENT
 
 BEGIN:VEVENT
-UID:trg-s8-week3-20260211@chesleywebsite
+UID:trg-s8-week3-20260218@chesleywebsite
 DTSTAMP:20251230T000000Z
 SUMMARY:TRG S8 Week 3: Chinese People pay US Universities Bills
-DTSTART;TZID=America/New_York:20260211T200000
-DTEND;TZID=America/New_York:20260211T213000
+DTSTART;TZID=America/New_York:20260218T200000
+DTEND;TZID=America/New_York:20260218T213000
 LOCATION:Discord
 DESCRIPTION:Join on Discord: https://discord.gg/AsB3MT8xBC\n\nMain Content (YouTube Video): https://www.youtube.com/watch?v=cQWlnTyOSig\nTitle: The Chinese Student Crisis from PolyMatter\n\nSupplement (YouTube Video): https://www.youtube.com/watch?v=A5Phoh0eRUc\nTitle: The College Enrollment Crisis from PolyMatter
 END:VEVENT
