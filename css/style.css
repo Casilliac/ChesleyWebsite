@@ -236,3 +236,36 @@ footer{
   color: #555;
   font-style: italic;
 }
+
+/* Intro Essay Section */
+.intro-essay {
+  background-color: #f0f8ff;
+  border-left: 4px solid #1f3fbf;
+  padding: 1.5rem 1.5rem 1.5rem 2rem;
+  margin: 2rem 0;
+  border-radius: 4px;
+}
+
+.intro-essay a {
+  font-size: 1.1rem;
+  color: #1f3fbf;
+  font-weight: 700;
+}
+
+.intro-essay a:hover {
+  text-decoration: underline;
+}
+
+/* Epigraph / Poem Section */
+.epigraph {
+  background-color: #fafafa;
+  border: 1px solid #e0e0e0;
+  border-left: 3px solid #999;
+  padding: 1.5rem 2rem;
+  margin: 2rem 1rem;
+  font-size: 0.95rem;
+  line-height: 1.8;
+  font-style: italic;
+  color: #444;
+  border-radius: 3px;
+}
