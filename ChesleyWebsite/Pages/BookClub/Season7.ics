@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChesleyWebsite//ReadingGroup//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Reading Group - Season 7
+X-WR-TIMEZONE:America/New_York
+
+BEGIN:VEVENT
+UID:trg-s7-week1-20260107@chesleywebsite
+DTSTAMP:20251218T000000Z
+SUMMARY:TRG S7 Week 1: Soviet Apocalypse
+DTSTART;TZID=America/New_York:20260107T200000
+DTEND;TZID=America/New_York:20260107T213000
+LOCATION:Discord
+DESCRIPTION:Join on Discord: https://discord.gg/AsB3MT8xBC\n\nMain Reading (PDF): https://drive.google.com/file/d/1XF0PDAegdI23luaiOdZn2-QApYOQG51K/view?usp=drive_link\nTitle: Excerpts From Godfather of the Kremlin by P. Klebnikov\n\nSupplement (PDF): https://drive.google.com/file/d/1tC8OgEAiNVryvIOGKDfdD-1TkynjNWKR/view?usp=sharing\nTitle: The Worldwide Liberal Revolution chapter from The End of History by Francis Fukuyama
+END:VEVENT
+
+BEGIN:VEVENT
+UID:trg-s7-week2-20260114@chesleywebsite
+DTSTAMP:20251218T000000Z
+SUMMARY:TRG S7 Week 2: The Generous Treatment of Gorbachev
+DTSTART;TZID=America/New_York:20260114T200000
+DTEND;TZID=America/New_York:20260114T213000
+LOCATION:Discord
+DESCRIPTION:Join on Discord: https://discord.gg/AsB3MT8xBC\n\nMain Reading (PDF): https://drive.google.com/file/d/1Sui5IX4rcaNEaNEP0UL9ptv86uxBHVxF/view?usp=drive_link\nTitle: Excerpts from The Struggle to Save the Soviet Economy by Chris Miller\n\nSupplement (Full Length Movie): https://drive.google.com/file/d/1iS4_pvMgOPXrxjf5ZZ-6YJ8x8SOcC7KW/view?usp=drive_link\nTitle: Meeting Gorbachev by Werner Herzog
+END:VEVENT
+
+BEGIN:VEVENT
+UID:trg-s7-week3-20260121@chesleywebsite
+DTSTAMP:20251218T000000Z
+SUMMARY:TRG S7 Week 3: The Less Generous Treatment of Gorbachev
+DTSTART;TZID=America/New_York:20260121T200000
+DTEND;TZID=America/New_York:20260121T213000
+LOCATION:Discord
+DESCRIPTION:Join on Discord: https://discord.gg/AsB3MT8xBC\n\nMain Reading (PDF): https://drive.google.com/file/d/18OFYq4MmPh9cqKVFfSf8dZHro_aqTA2-/view?usp=drive_link\nTitle: Excerpt from Collapse by Vladislav Zubok\n\nSupplement (PDF): https://drive.google.com/file/d/1fZdKNN8vEnL08skl9TxXhcNX-vrv3Huf/view?usp=drive_link\nTitle: Excerpts from Lenin's Tomb by David Remnick
+END:VEVENT
+
+BEGIN:VEVENT
+UID:trg-s7-byeweek-20260128@chesleywebsite
+DTSTAMP:20251218T000000Z
+SUMMARY:TRG S7: Bye Week (No Meeting)
+DTSTART;TZID=America/New_York:20260128T200000
+DTEND;TZID=America/New_York:20260128T203000
+LOCATION:Discord
+DESCRIPTION:No meeting this week.\n\nOptional Reading (PDF): https://drive.google.com/file/d/1xP38XNSdFmKrshYGsCrrTv61hsu9XUev/view?usp=drive_link\nTitle: Excerpt from Deng Xiaoping by Ezra Vogel\n\nDiscord: https://discord.gg/AsB3MT8xBC
+END:VEVENT
+
+END:VCALENDAR

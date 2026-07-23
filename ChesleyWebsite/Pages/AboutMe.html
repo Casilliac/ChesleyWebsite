@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Me</title>
+  <link rel="stylesheet" href="/ChesleyWebsite/css/style.css" />
+
+  <style>
+    .about-grid{
+      display: grid;
+      grid-template-columns: 280px 1fr;
+      gap: 18px;
+      align-items: start;
+      max-width: 1100px;
+    }
+    @media (max-width: 900px){
+      .about-grid{ grid-template-columns: 1fr; }
+    }
+
+    .about-photos{
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+    .about-photos figure{
+      margin: 0;
+      border: 1px solid var(--line);
+      background: #ffffff;
+      border-radius: 8px;
+      padding: 10px;
+    }
+    .about-photos img{
+      width: 100%;
+      height: auto;
+      border-radius: 6px;
+      display: block;
+    }
+    .about-photos figcaption{
+      margin-top: 8px;
+      font-size: 0.9rem;
+      color: #555;
+      font-family: var(--sans);
+    }
+
+    .about-header{
+      max-width: 1100px;
+    }
+
+    .about-kicker{
+      font-family: var(--sans);
+      font-size: 0.95rem;
+      color: #555;
+      margin-top: 0.25rem;
+      letter-spacing: 0.02em;
+    }
+
+    .tight{
+      margin-top: 0.25rem;
+      margin-bottom: 0.25rem;
+    }
+
+    .week.about-card h2{
+      margin-bottom: 6px;
+    }
+
+    /* Photo block used inside list items */
+    .item-photo{
+      margin: 10px 0 0 0;
+      border: 1px solid var(--line);
+      background: #ffffff;
+      border-radius: 8px;
+      padding: 10px;
+      max-width: 620px;
+    }
+    .item-photo img{
+      width: 100%;
+      height: auto;
+      border-radius: 6px;
+      display: block;
+    }
+    .item-photo figcaption{
+      margin-top: 8px;
+      font-size: 0.9rem;
+      color: #555;
+      font-family: var(--sans);
+    }
+
+    /* Make nested lists breathe a bit */
+    .li-block{
+      margin-bottom: 16px;
+    }
+    .li-block > ul{
+      margin-top: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="WelcomeBCBanner">
+    <h1>About Me</h1>
+  </div>
+
+  <div class="about-header">
+    <h2><a href="/ChesleyWebsite/index.html">Back</a></h2>
+
+    <h1 class="tight">Emory R. Chesley </h1>
+    
+  </div>
+
+  <div class="about-grid">
+    <!-- LEFT: photos (top-of-page gallery) -->
+    <div class="about-photos">
+      <figure>
+        <img src="/ChesleyWebsite/Images/PrimaryHeadshot.JPG" alt="Emory headshot" />
+        <figcaption>At the Caisson Platoon</figcaption>
+      </figure>
+
+    </div>
+
+    <!-- RIGHT: content -->
+    <div class="content">
+      <div class="week about-card">
+        <h2 class="week-title">Snapshot</h2>
+        <div class="week-date-time">
+          &nbsp;CURRENTLY&nbsp;·&nbsp;FORT BENNING, GA (SFA) &nbsp;·&nbsp; OPEN TO MBA + ENERGY SECTOR TRANSITION
+        </div>
+
+        <p>
+          I’m an active-duty U.S. Army Captain and Ranger School graduate. My career has been a mix of
+          high-accountability leadership roles, operational planning, and building practical systems that help teams execute.
+          I’m finishing a second bachelor’s degree in mathematics and positioning for an MBA, with a long-term focus on
+          energy and large-scale infrastructure.
+        </p>
+      </div>
+
+      <div class="week about-card">
+        <h2 class="week-title">Family</h2>
+        <p>
+          I’m married to Sophie (since May 2022) and we have two children. Family is the center of gravity for the way I
+          plan my time, pick projects, and think about long-term career decisions.
+        </p>
+      </div>
+
+      <div class="week about-card">
+        <h2 class="week-title">What I Do</h2>
+        <ul>
+          <li>Operational planning, execution design, and decision support</li>
+          <li>Leading teams under constraints</li>
+          <li>Analysis: turning complexity into clear tradeoffs</li>
+          <li>Systems + automation: Excel/VBA and Python tools</li>
+        </ul>
+      </div>
+
+      <div class="week about-card">
+        <h2 class="week-title">Experience Highlights</h2>
+
+        <!-- ONE PHOTO PER RESUME LINE ITEM -->
+        <ul>
+          <li class="li-block">
+            <strong>Planning Officer (2024–Present):</strong>
+            planned and executed training exercises with the Mexican Army; integrated AI tools into squadron planning processes.
+        
+          </li>
+
+          <li class="li-block">
+            <strong>Caisson Platoon Leader, The Old Guard (2022–2023):</strong>
+            managed 65 soldiers and 55 horses across 4 facilities; oversaw 1,700 full military honors funerals at Arlington National Cemetery.
+            <figure class="item-photo">
+              <img src="/ChesleyWebsite/Images/Caisson.jpg" alt="The Old Guard" />
+              <figcaption>The Old Guard</figcaption>
+            </figure>
+          </li>
+
+          <li class="li-block">
+            <strong>Refugee Camp Manager, Operation Allies Welcome (2021):</strong>
+            oversaw care for 2,250 Afghan refugees; coordinated soldiers, translators, government agencies, and NGOs.
+            <figure class="item-photo">
+              <img src="/ChesleyWebsite/Images/RefugeeCamp.jpg" alt="Operation Allies Welcome" />
+              <figcaption>Operation Allies Welcome</figcaption>
+            </figure>
+          </li>
+
+          <li class="li-block">
+            <strong>Tank Platoon Leader (2020–2021):</strong>
+            led 14 soldiers and $20M of equipment through major exercises across multiple countries; mentored soldiers into college enrollment.
+            <figure class="item-photo">
+              <img src="/ChesleyWebsite/Images/TankPL.jpg" alt="Tank Platoon" />
+              <figcaption>Tank Platoon</figcaption>
+            </figure>
+          </li>
+
+          <li class="li-block">
+            <strong>EcoFriendly Foods (2021–Present):</strong>
+            farmers market sales and business development; built vendor relationships; routinely generated $5k+ weekend sales.
+            <figure class="item-photo">
+              <img src="/ChesleyWebsite/Images/EcoTurkey.jpg" alt="EcoFriendly Foods" />
+              <figcaption>EcoFriendly Foods</figcaption>
+            </figure>
+          </li>
+        </ul>
+      </div>
+
+      <div class="week about-card">
+        <h2 class="week-title">Education</h2>
+
+        <!-- If you want “one per resume line item” literally, add photos here too -->
+        <ul>
+          <li class="li-block">
+            <strong>Texas A&amp;M University:</strong> B.S. in Construction (2019)
+          </li>
+
+          <li class="li-block">
+            <strong>Indiana University:</strong> B.S. in Mathematics (2025)
+          </li>
+        </ul>
+      </div>
+
+      <div class="week about-card">
+        <h2 class="week-title">Skills</h2>
+        <ul>
+          <li><strong>Technical:</strong> Excel (advanced, including VBA), Python</li>
+          <li><strong>Languages:</strong> Spanish (professional proficiency)</li>
+          <li><strong>Strengths:</strong> planning, execution management, stakeholder coordination, training design, writing</li>
+        </ul>
+      </div>
+
+      <div class="week about-card">
+        <h2 class="week-title">Interests</h2>
+        <div class="week-date-time">
+          &nbsp;ONE PHOTO PER INTEREST&nbsp;·&nbsp; UPDATED OVER TIME
+        </div>
+
+        <!-- ONE PHOTO PER INTEREST -->
+        <ul>
+          <li class="li-block">
+            <strong>Energy systems</strong>
+            <br>
+            <ul>
+              <li>Grid modernization, transmission and distribution, reliability</li>
+              <li>Renewables integration and real constraints (physics, permitting, construction)</li>
+              <li>Markets, regulation, incentives, and project finance basics</li>
+              <li>Discussion groups on energy history, economics, and physics</li>
+            </ul>
+
+          </li>
+
+          <li class="li-block">
+            <strong>Mathematics</strong>
+            <br>
+            <ul>
+              <li>Calculus, analysis, algebra, proofs</li>
+              <li>Clean notes and simple learning systems</li>
+            </ul>
+
+          </li>
+
+          <li class="li-block">
+            <strong>AI + automation</strong>
+            <br>
+            <ul>
+              <li>Applying AI to planning workflows and knowledge management</li>
+              <li>Practical automation: reduce friction, reduce errors</li>
+            </ul>
+
+          </li>
+
+          <li class="li-block">
+            <strong>Robotics and hardware</strong>
+            <br>
+            <ul>
+              <li>FPV drones and the hardware/software integration loop</li>
+              <li>Systems thinking through constrained design</li>
+            </ul>
+            <figure class="item-photo">
+              <img src="/ChesleyWebsite/Images/Drone.jpg" alt="Robotics and hardware" />
+              <figcaption>Robotics and hardware</figcaption>
+            </figure>
+          </li>
+
+          <li class="li-block">
+            <strong>Writing and reading</strong>
+            <br>
+            <ul>
+              <li>History, political economy, institutions, state capacity</li>
+              <li>Building reading lists and discussion formats</li>
+            </ul>
+            <figure class="item-photo">
+              <img src="/ChesleyWebsite/Images/BookShelf.JPG" alt="Writing and reading" />
+              <figcaption>Writing and reading</figcaption>
+            </figure>
+          </li>
+
+          <li class="li-block">
+            <strong>Food</strong>
+            <br>
+            <ul>
+              <li>Cooking, technique-driven recipes, repeatable processes</li>
+              <li>Fermentation, brines, sauces</li>
+            </ul>
+            <figure class="item-photo">
+              <img src="/ChesleyWebsite/Images/Food.jpg" alt="Food" />
+              <figcaption>Food</figcaption>
+            </figure>
+          </li>
+
+        </ul>
+
+       
+      </div>
+
+      <div class="week about-card">
+        <h2 class="week-title">Contact</h2>
+        <ul>
+          <li><a href="mailto:chesleyemory@gmail.com">chesleyemory@gmail.com</a></li>
+          <li><a href="tel:+16263777073">(626) 377-7073</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <footer>chesleyemory@gmail.com</footer>
+</body>
+</html>

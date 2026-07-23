@@ -1,0 +1,49 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChesleyWebsite//ReadingGroup//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:The Reading Group - Season 9
+X-WR-TIMEZONE:America/New_York
+
+BEGIN:VEVENT
+UID:trg-s9-week1-20260304@chesleywebsite
+DTSTAMP:20260217T000000Z
+SUMMARY:TRG S9 Week 1: The Age of Insurance
+DTSTART;TZID=America/New_York:20260304T200000
+DTEND;TZID=America/New_York:20260304T213000
+LOCATION:Discord
+DESCRIPTION:Join on Discord: https://discord.gg/AsB3MT8xBC\n\nMain Reading (PDF): https://drive.google.com/file/d/1eTmQWrkSuh1KkHKrIjH0yRdOOG2ncd0I/view?usp=drive_link\nTitle: Excerpt from An American Sickness by Elisabeth Rosenthal\n\nSupplement (PDF): https://drive.google.com/file/d/1Vr55LwraBLfYzsgKKDTAUElaGahpqdA1/view?usp=drive_link\nTitle: Another excerpt from An American Sickness by Elisabeth Rosenthal
+END:VEVENT
+
+BEGIN:VEVENT
+UID:trg-s9-week2-20260311@chesleywebsite
+DTSTAMP:20260217T000000Z
+SUMMARY:TRG S9 Week 2: The Age of Pharma
+DTSTART;TZID=America/New_York:20260311T200000
+DTEND;TZID=America/New_York:20260311T213000
+LOCATION:Discord
+DESCRIPTION:Join on Discord: https://discord.gg/AsB3MT8xBC\n\nMain Reading (PDF): https://drive.google.com/file/d/1jNnWyC06J4cjtodZBYSBagAXI1XbluT3/view?usp=drive_link\nTitle: ANOTHER excerpt from An American Sickness by Elisabeth Rosenthal\n\nSupplement (PDF): https://drive.google.com/file/d/1i3BM0CsNG0Tw6LJG2-468pGJ7dPxHGzG/view?usp=drive_link\nTitle: Excerpt from Abundance by Klein and Thompson
+END:VEVENT
+
+BEGIN:VEVENT
+UID:trg-s9-week3-20260318@chesleywebsite
+DTSTAMP:20260217T000000Z
+SUMMARY:TRG S9 Week 3: Does the US Subsidize European Drug Prices?
+DTSTART;TZID=America/New_York:20260318T200000
+DTEND;TZID=America/New_York:20260318T213000
+LOCATION:Discord
+DESCRIPTION:Join on Discord: https://discord.gg/AsB3MT8xBC\n\nMain Reading 1 (PDF): https://www.discoursemagazine.com/p/how-america-subsidizes-the-worlds\nTitle: "How America Subsidizes the World’s Medicine"\n\nMain Reading 2(PDF): https://www.pharmacytimes.com/view/most-favored-nation-drug-pricing-analysis-and-implications?utm_source=chatgpt.com\nTitle: Most Favored Nation Drug Pricing: Analysis and Implications\n\nSupplement (PDF): https://www.whitehouse.gov/presidential-actions/2025/05/delivering-most-favored-nation-prescription-drug-pricing-to-american-patients/\nTitle: White House Executive Order Text\n\nSupplement (PDF): https://drive.google.com/file/d/1bcXAx-zu504zqQDXkeR4oDeWFI6BBWHo/view?usp=sharing\nTitle: WSJ Article "Can Trump and Big Pharma Get the World to Pay More for Drugs?"
+END:VEVENT
+
+BEGIN:VEVENT
+UID:trg-s9-byeweek-20260325@chesleywebsite
+DTSTAMP:20260217T000000Z
+SUMMARY:TRG S9: Bye Week (No Meeting)
+DTSTART;TZID=America/New_York:20260325T200000
+DTEND;TZID=America/New_York:20260325T203000
+LOCATION:Discord
+DESCRIPTION:No meeting this week.
+END:VEVENT
+
+END:VCALENDAR
